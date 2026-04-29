@@ -39,10 +39,12 @@ Students need to study smartly:
 
 ## 👥 Team Members
 
-- Member 1: [Your Name]
-- Member 2: [Name]
-- Member 3: [Name]
+- Member 1: sk Neelofar
+- Member 2: Mythri Sarla
+- Member 3: Sahasra Anumolu
+- Member 4: Shaik Nazma
+- Member 5: Teena Kotapati
 
 ## 🏫 Submitted to
 
-CCC — [Your College Name] · Deadline: 30th April
+CCC — SRM University · Deadline: 30th April
