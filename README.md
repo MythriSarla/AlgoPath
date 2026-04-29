@@ -39,11 +39,11 @@ Students need to study smartly:
 
 ## 👥 Team Members
 
- - sk Neelofar
- - Mythri Sarla
- - Sahasra Anumolu
- - Shaik Nazma
- - Teena Kotapati
+- Sk Neelofar  
+- Mythri Sarla  
+- Sahasra Anumolu  
+- Shaik Nazma  
+- Teena Kotapati  
 
 ## 🏫 Submitted to
 
